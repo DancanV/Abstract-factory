@@ -1,0 +1,11 @@
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\bin\Debug\AbstractFabric.exe.config
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\bin\Debug\AbstractFabric.exe
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\bin\Debug\AbstractFabric.pdb
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.Form1.resources
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.Properties.Resources.resources
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.exe
+C:\Users\danii\Desktop\Project2023\Lab1\AbstractFabric\AbstractFabric\obj\Debug\AbstractFabric.pdb
